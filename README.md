@@ -66,12 +66,7 @@ I am currently reading the following books:
 Perfect Code. Steve McConnell
 Java. Effective programming. Joshua Bloch
 
-You can find me on the following platforms:
-Codewars: https://www.codewars.com/users/zampolitxxx
-Hexlet: https://ru.hexlet.io/u/
-
 English proficiency, Fluent reading of technical documentation, Conversational B2
-#### Phone 89146137303
 
 Work:
 2013-2022: RusHydro Group of Companies - an engineer of communications, information and technological systems.
@@ -95,9 +90,17 @@ Hexlet-College Java Developer profession: June 2023 - present
 </div>
 
 #### Socials
-https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg
-Mail zampolitx_85@mail.ru
-Telegram @Zloy_ej
+<p align="left"> 
+  <a href="https://www.github.com/zampolitxxx" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
+  <a href="https://www.stackoverflow.com/users/23334644/sergey-grishenov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a>
+  <a href="https://t.me/Zloy_ej" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" /> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="32" height="32" /> </picture> </a>
+  <a href="https://ru.hexlet.io/u/user-3affcbd9d6da8c0a" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/2/25/Hexlet-logo.jpg" /> <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Hexlet-logo.jpg" width="32" height="32" /> </picture> </a>
+</p>
+You can find me on the following platforms:
+Codewars: https://www.codewars.com/users/zampolitxxx
+Hexlet: https://ru.hexlet.io/u/
+
+
 #### Badges
 #### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zampolitxxx&theme=dark&background=000000)](https://git.io/streak-stats)
