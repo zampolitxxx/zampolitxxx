@@ -69,8 +69,8 @@ Java. Effective programming. Joshua Bloch
 Fluent reading of technical documentation/B2
 
 #### Work:
-2013-2022: RusHydro Group of Companies - an engineer of communications, information and technological systems.
-2022 — present: RusHydro Group of Companies - an engineer of the automated control systems section.
+<p>2013-2022: RusHydro Group of Companies - an engineer of communications, information and technological systems.</p>
+<p>2022 — present: RusHydro Group of Companies - an engineer of the automated control systems section.</p>
 
 
 #### Education:
