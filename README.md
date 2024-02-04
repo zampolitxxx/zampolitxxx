@@ -60,22 +60,22 @@ JUnit
 Other skills:
 Automated Testing (JUnit)
 Knowledge of the OSI network model and the basics of the TCP/IP network troubleshooting
-Russian and English blind printing.
 
 I am currently reading the following books:
 Perfect Code. Steve McConnell
 Java. Effective programming. Joshua Bloch
 
-English proficiency, Fluent reading of technical documentation, Conversational B2
+#### English:
+Fluent reading of technical documentation/B2
 
-Work:
+#### Work:
 2013-2022: RusHydro Group of Companies - an engineer of communications, information and technological systems.
 2022 — present: RusHydro Group of Companies - an engineer of the automated control systems section.
 
 
-Education:
-Dalgau. Specialty — service of electrotechnological, energy and electronic equipment.
-SibGUTI. Specialty — Infrocommunication technologies and communication systems.
+#### Education:
+Far Eastern State Agrarian University. Specialty — service of electrotechnological, energy and electronic equipment.
+Siberian State University of Telecommunications and Informatics. Specialty — Infrocommunication technologies and communication systems.
 Hexlet-College Java Developer profession: June 2023 - present
 #### Main skills
 <div>
@@ -96,9 +96,7 @@ Hexlet-College Java Developer profession: June 2023 - present
   <a href="https://t.me/Zloy_ej" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" /> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="32" height="32" /> </picture> </a>
   <a href="https://ru.hexlet.io/u/user-3affcbd9d6da8c0a" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/2/25/Hexlet-logo.jpg" /> <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Hexlet-logo.jpg" width="32" height="32" /> </picture> </a>
 </p>
-You can find me on the following platforms:
-Codewars: https://www.codewars.com/users/zampolitxxx
-Hexlet: https://ru.hexlet.io/u/
+
 
 
 #### Badges
