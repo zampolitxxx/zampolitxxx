@@ -77,6 +77,7 @@ Fluent reading of technical documentation/B2
 <p>Far Eastern State Agrarian University. Specialty — service of electrotechnological, energy and electronic equipment.</p>
 <p>Siberian State University of Telecommunications and Informatics. Specialty — Infrocommunication technologies and communication systems.</p>
 <p>Hexlet-College Java Developer profession: June 2023 - present</p>
+
 #### Main skills
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
